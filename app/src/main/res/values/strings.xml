@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinAnkoTemplate</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+</resources>
